@@ -1,2 +1,3 @@
 # my_repo
-My First Repository.
+My First Repository.\
+Author - Dhruv Gupta 
