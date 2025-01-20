@@ -13,3 +13,4 @@ Learning to use git
 - git add <-file name-> -> adds untracked or modified files in working directory to Git staging area
 - git commit -m "some message" -> is the record of change
 - git push origin main -> used to upload local commits to github for remote repo.
+- git init -> used to make a normal directory a git repository.
