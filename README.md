@@ -14,3 +14,8 @@ Learning to use git
 - git commit -m "some message" -> is the record of change
 - git push origin main -> used to upload local commits to github for remote repo.
 - git init -> used to make a normal directory a git repository.
+- git remote add origin <-link-> -> used to establish a connection to a github repository.
+- git remote -v -> TO check the connection once
+- git branch -> To check the branch that we are working on.
+- git branch -M <-branch name-> -> To rename the branch
+- git push -u origin main -> push once and then we can use 'git push' for this purpose because of -u which stands for upstream.
