@@ -19,3 +19,15 @@ Learning to use git
 - git branch -> To check the branch that we are working on.
 - git branch -M <-branch name-> -> To rename the branch
 - git push -u origin main -> push once and then we can use 'git push' for this purpose because of -u which stands for upstream.
+- git checkout <-branch name-> -> navigate to the given branch
+- git checkout -b <-new branch name-> -> birth/create a new branch
+- git branch -d <-branch name-> -> to delete a branch and also can't perform this action when in the same branch.
+- git diff <-branch name-> -> to compare commits, branches, files & more
+- git merge <-branch name-> -> to merge two branches : can also do this via a Pull Request in GitHub itself.
+- git pull origin <-branch name-> -> download content from a remote repo and immediately update the local repo to match that content.
+- git reset <-file name-> -> reverse of git add operation.
+- git reset -> to do multiple at once
+- git reset HEAD~1 -> reduce by one commit to go to previous commit.
+- git log -> we can check our commits. press 'q' to exit.
+- git reset <-hash code-> -> from git log get the hash code to go to that particular commit.
+- git reset --hard <-hash code-> -> vs code also removes the changes.
